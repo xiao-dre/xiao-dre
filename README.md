@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andreas Alexander
-- 👀 I’m interested in website development, game development, and databases
-- 🌱 I’m currently learning Python, many kind of databases, and game development
+- 👀 I’m interested in website development, web development, and databases
+- 🌱 I’m currently learning Python, many kind of databases, and web development
 - 💞️ I’m looking to collaborate on database projects
 - 📫 How to reach me andreas.alexander@binus.ac.id or alexanderandreas252@gmail.com
 
